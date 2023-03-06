@@ -1,6 +1,6 @@
 ### Hi there, I'm skzidan - aka [MayerDowa] 👋 
 
-![skzidan's GitHub stats](https://github-readme-stats-skzidan.vercel.app&show_icons=true&theme=radical)
+![skzidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=skzidan&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently looking for Job 
 - 🌱 I’m currently learning nothing
