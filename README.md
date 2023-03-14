@@ -5,6 +5,11 @@
   Last updated: 14/3/2023
 </h3>
 
+
+<p align="center">
+<a href="https://github.com/skzidan"><img src = "https://komarev.com/ghpvc/?username=skzidan&style=for-the-badge&color=000000"
+</p>    
+
 ![skzidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=skzidan&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently looking for Job 
