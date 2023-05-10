@@ -10,7 +10,7 @@
 <a href="https://github.com/skzidan"><img src = "https://komarev.com/ghpvc/?username=skzidan&style=for-the-badge&color=000000"
 </p>    
 
-![skzidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=skzidan&show_icons=true&theme=tokyonight)
+![skzidan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=skzidan&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently looking for Job 
 - 🌱 I’m currently learning nothing
@@ -19,7 +19,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skzidan&layout=compact)](https://github.com/skzidan/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=skzidan&layout=compact)](https://github.com/skzidan/github-readme-stats)
 
 <!--
 **skzidan/skzidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
