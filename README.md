@@ -124,18 +124,24 @@ identity:
 
 ## 📊 Telemetry & GitHub Activity
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/skzidan?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b26&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/followers/skzidan?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26&label=Followers" />
+</p>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=skzidan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skzidan&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
+<p align="center"><b>Top Languages & Core Metrics</b></p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skzidan&theme=tokyonight" alt="GitHub Stats Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skzidan&theme=tokyonight" alt="Top Languages Summary" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skzidan&layout=compact&theme=tokyonight&hide_border=true&card_width=450&langs_count=10" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skzidan&theme=tokyonight" alt="Profile Details" width="95%" />
 
-<br/>
+<br/><br/>
 
-<p align="center"><b>Contribution Galaxy</b></p>
+<p align="center"><b>Contribution Heatmap</b></p>
 <img src="https://ghchart.rshah.org/purple/skzidan" alt="Contribution Graph" width="95%" />
 
 </div>
@@ -152,21 +158,6 @@ identity:
   <img src="https://img.shields.io/badge/🦈_Pull_Shark-Merging-7aa2f7?style=for-the-badge&logo=github&logoColor=white&color=1a1b26" alt="Pull Shark" />
   <img src="https://img.shields.io/badge/⚡_Quickdraw-Fast_Action-7dcfff?style=for-the-badge&logo=github&logoColor=white&color=1a1b26" alt="Quickdraw" />
   <img src="https://img.shields.io/badge/🧠_Galaxy_Brain-AI_Architect-bb9af7?style=for-the-badge&logo=github&logoColor=white&color=1a1b26" alt="Galaxy Brain" />
-</p>
-
-<!-- Animated Gradient Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e9f12e84-814e-4e4b-97e3-0599bbfa0ab7.gif" width="100%" alt="Divider" />
-</p>
-
-## 💭 Transmission of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" />
-</div>
-
-<p align="center">
-  <sub>🔄 <i>Refresh to receive a new transmission</i></sub>
 </p>
 
 <!-- Dynamic Waving Footer -->
