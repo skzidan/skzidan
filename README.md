@@ -201,7 +201,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/skzidan/skzidan/output/github-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
 ---
